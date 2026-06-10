@@ -45,7 +45,6 @@ Full control over Gameloop emulator:
 Everything for Android manipulation:
 - Install APKs
 - Token tools
-- Magic Bullet
 
 ---
 
