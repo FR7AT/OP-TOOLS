@@ -113,10 +113,3 @@ It is:
 - Built with engineering mindset
 - Fast, stable, and clean
 
----
-
-## Information
-
-- Version: 1.6.4  
-- Developer: Farhat  
-- Language: C++
