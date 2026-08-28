@@ -1,1 +1,3 @@
-
+GWorld = 0x0AAE8E94
+GNames = 0x0A6EDD34
+GUObjectArray = 0x0A8E02B4
