@@ -1,4 +1,4 @@
-GWorld = 0x0AAE8E94
-GNames = 0x0A6EDD34
-GUObjectArray = 0x0A8E02B4
-version = 4.5.0
+GWorld = 0x0ADC3514
+GNames = 0x0A9BFEB4
+GUObjectArray = 0x0ABB9D0C
+version = 4.6.0
